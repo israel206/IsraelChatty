@@ -12,6 +12,10 @@
 
 <br>
 
+<p align="center">
+  <img alt="Chatty" src=".github/Chatty.png" width="80%">
+</p>
+
 ---
 
 ## ✨ Tecnologias
